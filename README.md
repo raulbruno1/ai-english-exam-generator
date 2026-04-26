@@ -12,18 +12,17 @@ Plataforma inteligente para la generación automática de exámenes de inglés u
 
   * Multiple choice
   * Fill in the blanks
-  * Reading comprehension
+  * Keyword Transformation
 * Uso de modelos de lenguaje (LLMs)
-* Interfaz amigable para docentes/usuarios
+* Interfaz amigable para los usuarios
 
 ---
 
 ## Tecnologías utilizadas
 
-* Python / JavaScript (ajustar según corresponda)
-* Framework web (React / Node.js / Django / etc.)
-* APIs de modelos de lenguaje (OpenAI / otros)
-* HTML, CSS
+* Angular, Python
+* MySQL
+* Ollama
 
 ---
 
